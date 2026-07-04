@@ -20,5 +20,3 @@ Fase Inicial: El momentum positivo de España aumenta la probabilidad de marcar 
 Fase Crítica (Prórroga): Si el partido llega al alargue, la estadística muestra que el equipo con mayor momentum (España) tiende a capitalizar mejor las sustituciones tácticas, lo que justifica su 54.3% de probabilidad de avanzar frente al 45.7% de Portugal.
 
 Este análisis de Momentum es el broche de oro para tu reporte, ya que responde a la pregunta que cualquier analista deportivo se haría: "¿Quién llega mejor al partido?".
-
-¿Te gustaría que te ayude a redactar una pequeña introducción para este reporte, o con este desglose ya estás listo para subirlo al repositorio?
